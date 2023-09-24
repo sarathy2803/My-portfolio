@@ -1,0 +1,40 @@
+.backColor{
+  height: 2rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.posBot{
+  position: absolute;
+  font-family: 'Dai Banna SIL', serif;
+  top:20%;
+  left: 8%;
+  color: white;
+}
+.posuBot{
+  position: absolute;
+  top: 28%;
+  left: 8%;
+  font-weight: bolder;
+  font-size: xx-large;
+  color: white;
+}
+body{
+  background-image: linear-gradient(to right,rgb(3, 133, 111),rgb(224, 235, 236));
+  overflow: hidden;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+}
+h2{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card{
+  width: 400px;
+  height: 400px;
+}
+img{
+  width: 300px;
+}
+.hero-text{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
